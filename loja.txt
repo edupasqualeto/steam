@@ -1,0 +1,31 @@
+0;FIFA 25;200
+1;CS:GO;35
+2;Satisfactory;80
+3;Minecraft;120
+4;Valorant;0
+5;Terraria;40
+6;The Witcher 3;90
+7;GTA V;120
+8;Stardew Valley;45
+9;Hollow Knight;30
+10;Cyberpunk 2077;200
+11;Red Dead Redemption 2;250
+12;Palworld;100
+13;No Man's Sky;180
+14;Elden Ring;250
+15;Dark Souls III;150
+16;Assassin's Creed Valhalla;200
+17;Fallout 4;90
+18;Baldur's Gate 3;300
+19;Factorio;140
+20;Subnautica;60
+21;Lethal Company;35
+22;Phasmophobia;50
+23;Left 4 Dead 2;30
+24;Overwatch 2;0
+25;League of Legends;0
+26;The Forest;45
+27;Slime Rancher;50
+28;Sea of Thieves;180
+29;Dota 2;0
+30;Hades;70
